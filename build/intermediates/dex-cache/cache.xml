@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/guanfang/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/aa1a8ebd2d337a5f31f86d5568688f71/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanfang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/35630374a7da6211a0c24c982b8e52f0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanfang/Downloads/stickyDots-master/stickyDotsLib/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        jar="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_49a216dfb7b9dedf62cac3857ac03b9a1bf002b9.jar" />
+    </item>
+    <item
+        jar="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_da094457cf63c3f65b652d2cd5fdf1a096034af1.jar" />
+    </item>
+    <item
+        jar="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_daf9204648070074d68049b58952adaeb01af0ea.jar" />
+    </item>
+    <item
+        jar="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/exploded-aar/stickyDots-master/stickyDotsLib/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1395b01496d05388352deb066bf7e1db066b3216">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_3bca6fe7c2d59660dee86f6e834986d2583c29fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanfang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanfang/Downloads/stickyDots-master/stickyDotsLib/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf6b72ddaab5bdeb11b7a5b3a45795f9018cde0c">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guanfang/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/aa1a8ebd2d337a5f31f86d5568688f71/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        jar="/Users/guanfang/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/23.1.1/8d680ba5a623724d1fb0e81c36a790f023a6cede/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_0e717e7ace99ecb0b68d2c40af3f47f538084c74.jar" />
+    </item>
+    <item
+        jar="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/exploded-aar/stickyDots-master/stickyDotsLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c857c29e70d5a0e187e0560b96a41a3af6ead5ec">
+        <dex dex="/Users/guanfang/Downloads/stickyDots-master/samples/build/intermediates/pre-dexed/debug/stickyDots-master-stickyDotsLib-unspecified_0bddc43f96fa7c900ff8c42e046e623bd25901d0.jar" />
+    </item>
+
+</items>
